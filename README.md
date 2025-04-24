@@ -40,10 +40,6 @@ Implemented AI vision-based solutions to detect safety issues and ensure operati
 
 ---
 
-## 🎤 Upcoming: Paid AI Course on Object Detection
-I’m preparing a full course on **object detection in computer vision using AI**, with source code and materials published on GitHub. Stay tuned!
-
----
 
 ## 🌐 Connect With Me
 
