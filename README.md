@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Laith Al Haware
 
-🎓 Master's in AI & Computer Science | 🔧 Mechatronics Engineer | 🚀 AI & InfoSec Expert | 🧠 Deep Learning Enthusiast  
-🌍 Based in Dubai | 💼 Working with RTA (Dubai Government) | 🌐 www.laithalhaware.com
+🎓 Baccalaureate in Mechatronics Engineer | 🚀 AI & InfoSec Expert | 🧠 Deep Learning Enthusiast  
+🌍 Based in Dubai | 💼 Working with Roads & Transport Authority - RTA (Dubai Government) | 🌐 www.laithalhaware.com
 
 ---
 
