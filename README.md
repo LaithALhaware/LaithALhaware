@@ -46,7 +46,7 @@ Implemented AI vision-based solutions to detect safety issues and ensure operati
 - 🌍 [www.laithalhaware.com](https://www.laithalhaware.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/laith-madhat-al-hory)
 - 📫 lmalhouri13@eng.just.edu.jo
-- 📞 +971 54 991 4624
+- 📞 +971 5* **** ***
 
 ---
 
