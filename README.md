@@ -227,7 +227,7 @@ Feel free to contact me. I would be happy to discuss how I can help transform id
 <img src="https://img.shields.io/badge/Website-laithalhaware.com-00AA88?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/laith-madhat-al-hory" target="_blank">
+<a href="https://www.linkedin.com/in/laithalhaware/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Laith%20Al%20Haware-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
